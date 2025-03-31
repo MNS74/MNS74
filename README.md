@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MNS74
+- 👋 Hi, I’m @MNS74 = Mathias Nilsson Sigheim
 - 👀 I’m interested in beeing on the see and my summer house in Loftahammar, Sweden
 - 🌱 I’m currently learning to code python and Azure on Codecademy
 - 💞️ I’m looking to collaborate on all projekts that develops my skill as a programmer
